@@ -1,0 +1,26 @@
+        Archive Filename: hpled.zip
+       Short Description: HPLED is a small tool for "HP SK-2505"  multimedia
+                          keyboards. 
+                          It can turn on/off "messages" LED and lock keyboard. 
+                          Sources are included.
+
+        Long Description: (none)
+
+      Proposed directory
+           for placement:  /pub/os2/util/keyboard/
+                           /pub/os2/system/drivers/misc/
+
+               Your name: Alex Samorukov
+           Email address: samm@os2.ru
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2
+ Additional requirements: (none)
+
+                Replaces: (none)
